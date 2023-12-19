@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Fluffy",
+        "species": "gila monster",
+        "owner": "Oksana"
+    },
+    {
+        "name": "Tiny",
+        "species": "stegosaurus",
+        "owner": "Rachel"
+    },
+    {
+        "name": "Spot",
+        "species": "zebra",
+        "owner": "Farrokh"
+    }
+]

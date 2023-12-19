@@ -1,0 +1,7 @@
+firefox
+chrome
+brave
+edge
+safari
+internet explorer
+opera
